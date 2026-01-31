@@ -3,12 +3,12 @@
 A comprehensive C++ console-based fitness tracking application that helps users manage their fitness journey through profile management, activity tracking, goal setting, and personalized workout planning.
 
 ## 📋 Table of Contents
-- [Features](-#features)
-- [Project Structure](-#project-structure)
-- [Getting Started](-#getting-started)
-- [Usage](-#usage)
-- [Technical Details](-#technical-details)
-- [Future Enhancements](-#future-enhancements)
+- [Features](#features)
+- [Project Structure](#project-structure)
+- [Getting Started](#getting-started)
+- [Usage](#usage)
+- [Technical Details](#technical-details)
+- [Future Enhancements](#future-enhancements)
 
 ## ✨ Features
 
